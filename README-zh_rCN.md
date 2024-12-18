@@ -1,8 +1,10 @@
 # 嗨 , 欢迎来到 Chiu-xaH 的 Github 😊
 
-## 选择你的语言
-### [English](/README.md)
-### [简体中文](/README-zh_rCN.md)
+
+<!-- ![Static Badge](https://img.shields.io/badge/English-8A2BE2)
+![Static Badge](https://img.shields.io/badge/简体中文-you_like_blue) -->
+
+选择你的语言 : [English](/README.md) | [简体中文](/README-zh_rCN.md)
 
 ## 身份 : 2023届本科生在读
 ### 学校 : 合肥工业大学 (HFUT)
@@ -12,14 +14,11 @@
 
 ## 主方向 : 客户端开发、后端
 
-## 目前主技能 : Kotlin、Java、安卓(Android)开发
+## 主技能 $~$ ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2) ![Static Badge](https://img.shields.io/badge/Java-D6300F) ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-## 编程语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)
-
-
-## 贡献
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true)
+## 编程语言及贡献
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
 
 ## 能力
 

@@ -1,25 +1,20 @@
 # Hello , Welcome to Chiu-xaH's Github 😊
 
-## Select Your Language
-### [English](/README.md)
-### [简体中文](/README-zh_rCN.md)
+Select Your Language : [English](/README.md) | [简体中文](/README-zh_rCN.md)
 
 ## Identity : Study In From 2023-09 as An Undergraduate
 ### School : Hefei University of Technology (HFUT)
 ### Major : (Original) Geoinformation Science And Technology -> Computer Science And Technology
 
-## Start Learning Computer : 2023-07
+## Start Learning : 2023-07
 
 ## Main Force : Client、After End
 
-## Current Main Skill : Kotlin, Java, Android
+## Main Skill $~$  ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2) ![Static Badge](https://img.shields.io/badge/Java-D6300F)  ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)
-
-## Contribute
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true)
-
+## Languages And Contribute
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=en&hide_title=true)
 
 ## Ability :
 
