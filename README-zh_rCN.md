@@ -11,13 +11,14 @@
 ### 专业 : (原大一) 地球信息科学与技术 -> 计算机科学与技术
 
 ## 入行时间 : 2023年7月 
+[看我的开发者成长之路](/Skills.png)
 
 ## 主方向 : 客户端开发、后端
 
 ## 主技能 $~$ ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2) ![Static Badge](https://img.shields.io/badge/Java-D6300F) ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
 ## 编程语言及贡献
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact&locale=cn)$~$
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
 
 ## 能力

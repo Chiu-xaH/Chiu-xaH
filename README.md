@@ -6,7 +6,8 @@ Select Your Language : [English](/README.md) | [简体中文](/README-zh_rCN.md)
 ### School : Hefei University of Technology (HFUT)
 ### Major : (Original) Geoinformation Science And Technology -> Computer Science And Technology
 
-## Start Learning : 2023-07
+## Start Learning : 2023-07 
+[Click Here to See My Way to Develop](/Skills.png)
 
 ## Main Force : Client、After End
 
