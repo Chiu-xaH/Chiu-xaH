@@ -4,9 +4,11 @@ Select Your Language : [English](/README.md) | [简体中文](/README-zh_rCN.md)
 
 ## Main Skill $~$  ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2) ![Static Badge](https://img.shields.io/badge/Java-D6300F)  ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-😍 I'm interested in Client-Development and Reverse. $~~$ 😍 I like software and coding.
+😍 I'm interested in Client-Development and Reverse. 😍 I like software and coding.
 
-😰 I rarely learn Front-End and hate it. $~~~~~~~~~~~~~~~~~~~~~~~~$ 😰 I don't like hardware.
+😰 I rarely learn Front-End and hate it.  😰 I don't like hardware.
+
+💻 Recently learning Java/Kotlin After-End such as Spring, Ktor...
 
 ## Languages And Contribute
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
@@ -18,7 +20,7 @@ Select Your Language : [English](/README.md) | [简体中文](/README-zh_rCN.md)
 ### Front-End : HTML, CSS, JavaScript ...
 ### Client : Android
 ### Other : Android Reverse(Smail, Frida ...), JavaScript Reverse, Algorithms And Data Structures(C Language) ...
-### Learning : Spring, Ktor, React, Kotlin Multiplatform + Compose Multiplatform, Flutter ...
+### Learning : Java/Kotlin After-End : Spring, Ktor, Kotlin Multiplatform, Flutter, Swift&iOS(Plan)...
 
 ## Identity : Study In From 2023-09 as An Undergraduate
 ### School : Hefei University of Technology (HFUT)

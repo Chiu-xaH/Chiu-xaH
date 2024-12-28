@@ -8,9 +8,11 @@
 
 ## 主技能 $~$ ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2) ![Static Badge](https://img.shields.io/badge/Java-D6300F) ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-😍 我对客户端开发、逆向感兴趣 $~~~~$ 😍 我喜欢搞软件方向，敲代码
+😍 我对客户端开发、逆向感兴趣 😍 我喜欢搞软件方向，敲代码
 
-😰 我不喜欢前端并且很少学习 $~~~~~~~$ 😰 我不喜欢硬件方向，搞不懂
+😰 我不喜欢前端并且很少学习 😰 我不喜欢硬件方向，搞不懂
+
+💻 最近在学Java/Kotlin后端 Spring、Ktor...
 
 ## 编程语言及贡献
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact&locale=cn)$~$
@@ -23,7 +25,7 @@
 ### 客户端 : 安卓开发
 ### 其他 : 安卓逆向(Smail、Frida...)、JS逆向、算法与数据结构(C语言)...
 
-### 在学/计划 : Spring、Ktor、React、Kotlin Multiplatform + Compose Multiform(跨平台)、Flutter...
+### 在学 : Java/Kotlin后端：Spring、Ktor，Kotlin Multiplatform、Flutter、Swift&iOS开发(计划)...
 
 ## 身份 : 2023届本科生在读
 ### 学校 : 合肥工业大学 (HFUT)
