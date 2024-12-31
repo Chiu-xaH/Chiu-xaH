@@ -19,7 +19,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
 
 ## 能力
-![My Skills](https://skillicons.dev/icons?i=androidstudio,c,css,dart,flutter,git,gradle,html,java,js,kotlin,ktor,linux,md,materialui,maven,mysql,nginx,nodejs,php,py)
+![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,linux,mysql,maven,spring,ktor,swift)
 ### 后端 : PHP Python SQL...
 ### 前端 : HTML CSS JavaScript...
 ### 客户端 : 安卓开发

@@ -15,7 +15,7 @@ Select Your Language : [English](/README.md) | [简体中文](/README-zh_rCN.md)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=en&hide_title=true)
 
 ## Ability :
-![My Skills](https://skillicons.dev/icons?i=androidstudio,c,css,dart,flutter,git,gradle,html,java,js,kotlin,ktor,linux,md,materialui,maven,mysql,nginx,nodejs,php,py)
+![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,linux,mysql,maven,spring,ktor,swift)
 ### After-End : PHP, Python, SQL ...
 ### Front-End : HTML, CSS, JavaScript ...
 ### Client : Android
