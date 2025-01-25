@@ -8,24 +8,24 @@
 
 ## 主技能 $~$ ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2) ![Static Badge](https://img.shields.io/badge/Java-D6300F) ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-😍 我对客户端开发、逆向感兴趣 😍 我喜欢搞软件方向，敲代码
+😍 我对客户端开发及逆向感兴趣 😍 我喜欢搞软件方向，敲代码
 
-😰 我不喜欢前端并且很少学习 😰 我不喜欢硬件方向，搞不懂
+😰 我不太会前端并且很少学习  😰 我不喜欢硬件方向，搞不懂
 
-💻 最近在学Java/Kotlin后端 Spring、Ktor...
+💻 最近在学Java/Kotlin后端...
 
 ## 编程语言及贡献
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact&locale=cn)$~$
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
 
 ## 能力
-![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,linux,mysql,maven,spring,ktor,swift)
-### 后端 : PHP Python SQL...
+![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,linux,mysql,maven,spring,ktor,dotnet,cs)
+### 后端 : PHP Python SQL Java/Kotlin Spring...
 ### 前端 : HTML CSS JavaScript...
-### 客户端 : 安卓开发
+### 客户端 : 安卓开发 Kotlin跨平台
 ### 其他 : 安卓逆向(Smail、Frida...)、JS逆向、算法与数据结构(C语言)...
 
-### 在学 : Java/Kotlin后端：Spring、Ktor，Kotlin Multiplatform、Flutter、Swift&iOS开发(计划)...
+### 在学 : Ktor、Docker、Redis、K8S、C#、WinUI3、Swift&iOS开发(计划)、Go(计划)...
 
 ## 身份 : 2023届本科生在读
 ### 学校 : 合肥工业大学 (HFUT)
