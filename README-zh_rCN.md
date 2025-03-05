@@ -10,14 +10,14 @@
 
 😍 我对**安卓开发**感兴趣
 
-💻 最近在学SpringBoot后端 ...
+💻 最近准备学安卓内核开发 ...
 
 ## 编程语言及贡献
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact&locale=cn)$~$
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
 
 ## 能力
-![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,flask,mysql,maven,spring,ktor,dotnet,cs,vercel,fastapi,redis,mongodb,graphql,docker,rabbitmq,elasticsearch)
+![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,flask,mysql,maven,spring,ktor,dotnet,cs,vercel,fastapi,redis,mongodb,graphql,docker,rabbitmq,elasticsearch,bash)
 
 ## 学校 : 合肥工业大学(HFUT)2023级本科生在读
 ### 专业 : (原大一) 地球信息科学与技术 -> 计算机科学与技术
