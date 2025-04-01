@@ -4,9 +4,12 @@ Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
 
 ## Main Skill : ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-🤩 I'm interested in **Android**
+🤩 I'm interested in **Android** which is my main skill.
 
-💻 Recently ready to learn Android-Framework ...
+💻 Recently learning Android-Framework and How to optimizate the performance of application ...
+
+✨ Future Dream : Engaged in Android-Application-Development; Hope to have ability to participate in the custom development of Android.
+
 
 ## Languages And Contribute (Ignore JavaScript)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
