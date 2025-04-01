@@ -4,11 +4,11 @@
 
 ## 主要技能 : ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Android-4FB054)
 
-🤩 对**安卓开发(Android)**感兴趣，主发展技能
+🤩 对**安卓开发**感兴趣，主发展技能
 
-💻 最近正在学安卓内核(Android Framework)开发、对APP进行性能优化 ...
+💻 最近正在学安卓内核开发、对APP进行性能优化 ...
 
-✨ 未来展望：从事安卓软件的开发；希望有能力参与安卓系统(Android)的定制开发
+✨ 未来展望：从事安卓APP的开发；希望有能力参与安卓系统的定制开发
 
 ## 语言及贡献 (忽略JavaScript)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact&locale=cn)$~$
