@@ -2,7 +2,7 @@
 
 Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
 
-## Main Skill : ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Android-4FB054)
+## Main Skill : ![Static Badge](https://img.shields.io/badge/Android%20-50f270?logo=android&logoColor=black&style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 
 🤩 I'm interested in **Android** which is my main skill.
 

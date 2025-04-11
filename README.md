@@ -2,7 +2,7 @@
 
 选择你的语言 : [简体中文](/README.md) | [English](/README-EN.md)
 
-## 主要技能 : ![Static Badge](https://img.shields.io/badge/Kotlin-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Android-4FB054)
+## 主要技能 ：![Static Badge](https://img.shields.io/badge/Android%20-50f270?logo=android&logoColor=black&style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 
 🤩 对**安卓开发**感兴趣，主发展技能
 
