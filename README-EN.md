@@ -6,17 +6,18 @@ Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
 
 🤩 I'm interested in **Android** which is my main skill.
 
-💻 Recently learning Android-Framework and How to optimizate the performance of application ...
+🤔 Daily : Maintaining my APP, researching innovations in logic, animations, etc., exploring the layering of APP architecture, optimizing APP performance, reinventing the wheel, exploring new libraries...
+
+🚀 Principle : As a developer, you must have inspiration. Demand drives development. Deeply than extensively
 
 ✨ Future Dream : Engaged in Android-Application-Development; Hope to have ability to participate in the custom development of Android.
-
 
 ## Languages And Contribute (Ignore JavaScript)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=en&hide_title=true)
 
 ## Ability 
-![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,md,dart,flutter,html,css,js,nodejs,nginx,php,py,flask,mysql,maven,spring,ktor,dotnet,cs,vercel,fastapi,redis,mongodb,graphql,docker,rabbitmq,elasticsearch,bash)
+![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,html,css,js,nodejs,nginx,php,py,flask,mysql,maven,spring,ktor,cs,vercel,fastapi,redis,mongodb,graphql,docker,rabbitmq,elasticsearch,bash)
 
 ## Now 
 Study Computer Science And Technology in Hefei University of Technology (HFUT) from 2023 as an undergraduate
