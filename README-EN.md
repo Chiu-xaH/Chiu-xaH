@@ -8,7 +8,7 @@ Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
 
 🤔 Daily : Maintaining my APP, researching innovations in logic, animations, etc., exploring the layering of APP architecture, optimizing APP performance, reinventing the wheel, exploring new libraries...
 
-🚀 Principle : As a developer, you must have inspiration. Demand drives development. Deeply than extensively
+🚀 Principle : As a developer, you must have inspiration. Deeply than extensively
 
 ✨ Future Dream : Engaged in Android-Application-Development; Hope to have ability to participate in the custom development of Android.
 
@@ -17,7 +17,12 @@ Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=en&hide_title=true)
 
 ## Ability 
-![My Skills](https://skillicons.dev/icons?i=c,java,kotlin,androidstudio,gradle,postgres,sqlite,git,materialui,html,css,js,nodejs,nginx,php,py,flask,mysql,maven,spring,ktor,cs,vercel,fastapi,redis,mongodb,graphql,docker,rabbitmq,elasticsearch,bash)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,c,java,kotlin,android,gradle,postgres,sqlite,jetpackcompose,ktor,vercel,supabase,cmake&theme=light&perline=10)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,nginx,php,api,flask,mysql,maven,spring,tomcat,redis,mongodb,graphql,docker,rabbitmq,elasticsearch,kibana,jwt,&theme=light&perline=10)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,py,bash&theme=light&perline=10)
+
 
 ## Now 
 Study Computer Science And Technology in Hefei University of Technology (HFUT) from 2023 as an undergraduate
