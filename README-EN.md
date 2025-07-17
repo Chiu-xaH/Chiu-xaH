@@ -1,10 +1,10 @@
 # Hello , Welcome to My Github 😊
 
-Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
+Select Your Language : [简体中文](/README.md) | English
 
 ## Main Skill : ![Static Badge](https://img.shields.io/badge/Android%20-50f270?logo=android&logoColor=black&style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 
-🤩 I'm interested in **Android** which is my main skill.
+🤩 I'm interested in **Android**.
 
 🤔 Daily : Maintaining my APP, researching innovations in logic, animations, etc., exploring the layering of APP architecture, optimizing APP performance, reinventing the wheel, exploring new libraries...
 
@@ -12,8 +12,7 @@ Select Your Language : [English](/README-EN.md) | [简体中文](/README.md)
 
 ✨ Future Dream : Engaged in Android-Application-Development; Hope to have ability to participate in the custom development of Android.
 
-## Languages And Contribute (Ignore JavaScript)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact)$~$
+## Contribute
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=en&hide_title=true)
 
 ## Ability 

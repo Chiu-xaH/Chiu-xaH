@@ -1,19 +1,18 @@
 # 嗨 欢迎来到我的 Github 😊
 
-选择你的语言 : [简体中文](/README.md) | [English](/README-EN.md)
+选择你的语言 : 简体中文 | [English](/README-EN.md)
 
-## 主要技能 ：![Static Badge](https://img.shields.io/badge/Android%20-50f270?logo=android&logoColor=black&style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
+## 主要领域 ：![Static Badge](https://img.shields.io/badge/Android%20-50f270?logo=android&logoColor=black&style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 
-🤩 对**安卓开发**感兴趣，主发展技能
+🤩 对**安卓开发**感兴趣
 
-🤔 日常：维护我的APP、研究在逻辑、动效等方面的创新、对APP架构分层的探索、优化APP的性能、造轮子、探索新鲜的库...
+🤔 日常：维护我的APP、研究在逻辑、动效等方面的创新、对APP架构分层的探索、优化APP的性能、创造、探索新鲜的库...
 
 🚀 准则：思考->灵感-用代码变现；学深不学广
 
 ✨ 未来展望：从事安卓APP的开发；希望有能力参与安卓系统的定制开发
 
-## 语言及贡献 (忽略JavaScript)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiu-xaH&layout=compact&locale=cn)$~$
+## 贡献
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
 
 ## 能力
