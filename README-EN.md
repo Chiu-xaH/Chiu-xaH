@@ -8,8 +8,6 @@ Select Your Language : [简体中文](/README.md) | English
 
 🤔 Daily : Maintaining my APP, researching innovations in logic, animations, etc., exploring the layering of APP architecture, optimizing APP performance, reinventing the wheel, exploring new libraries...
 
-🚀 Principle : As a developer, you must have inspiration. Deeply than extensively
-
 ✨ Future Dream : Engaged in Android-Application-Development; Hope to have ability to participate in the custom development of Android.
 
 ## Contribute
