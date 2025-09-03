@@ -1,30 +1,29 @@
 # Hello , Welcome to My Github 😊
 
-Select Your Language : [简体中文](/README.md) | English
+Select Language : [简体中文](/README.md) | English
 
-## Main Skill : ![Static Badge](https://img.shields.io/badge/Android%20-50f270?logo=android&logoColor=black&style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
+## Profile
 
-🤩 I'm interested in **Android**.
+I'm an Android developer and I'm passionate about it.
 
-🤔 Daily : Maintaining my APP, researching innovations in logic, animations, etc., exploring the layering of APP architecture, optimizing APP performance, reinventing the wheel, exploring new libraries...
+I began to get involved in the world of computers in 2023.
 
-✨ Future Dream : Engaged in Android-Application-Development; Hope to have ability to participate in the custom development of Android.
+The languages I frequently use are Kotlin,C and Python in sequence.
+
+I currently have an App under maintenance.
+
+I am currently a student at Hefei University of Technology(Xuancheng Campus), majoring in Earth Information Science and Technology in my freshman year. Currently, I am majoring in Computer Science and Technology.
+
+<div align="center">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring,c,java,kotlin&theme=light)](https://github.com/Chiu-xaH/HFUT-Schedule/releases/latest)
+</div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Contribute
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=en&hide_title=true)
 
-## Ability 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,c,java,kotlin,android,gradle,postgres,sqlite,jetpackcompose,ktor,vercel,supabase,cmake&theme=light&perline=10)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,nginx,php,api,flask,mysql,maven,spring,tomcat,redis,mongodb,graphql,docker,rabbitmq,elasticsearch,kibana,jwt,&theme=light&perline=10)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,py,bash&theme=light&perline=10)
-
-
-## Now 
-Study Computer Science And Technology in Hefei University of Technology (HFUT) from 2023 as an undergraduate
-
-## Contact zsh0908@outlook.com
-
-## Contribute Graph
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiu-xaH&custom_title=Contribute)
+
+## [Contact zsh0908@outlook.com](zsh0908@outlook.com)
