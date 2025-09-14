@@ -2,7 +2,7 @@
 
 ## 简介 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring,kotlin&theme=light)
 
 我是一名Android开发者，热爱于此;
 
