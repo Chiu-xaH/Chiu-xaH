@@ -12,7 +12,7 @@
 
 我还有很多不足，平时喜欢通过书本、开源项目、博客学习;
 
-远期规划由App向Framework层发展，目前在做App层开发，维护[聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)App以及若干小App及Library;
+远期规划由App向Framework层发展，目前在做App层开发，维护[聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)App，[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater)库等项目;
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
