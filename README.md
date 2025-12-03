@@ -4,7 +4,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring,kotlin&theme=light)
 
-我是一名Android开发者，热爱于此，从2023年开始接触计算机的世界;
+我是一名Android开发者，兴趣驱使我入门此行业，从2023.06高考后开始接触计算机的世界;
 
 我就读于合肥工业大学(HFUT)宣城校区本科(2023-2027)，大一修地球信息科学与技术专业，目前为计算机科学与技术专业;
 
@@ -14,13 +14,11 @@
 
 远期规划由App向Framework发展，期望从事领域：Android原生应用开发 -> Android系统应用开发 -> Android系统Framework开发。
 
-我对Android的热爱从未变，变的是这个时代的风向...
+也许时代的风向一直变化，但我对Android的热爱从未动摇，保持初心，不随波逐流。
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 动态
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiu-xaH&show_icons=true&count_private=true&locale=cn&hide_title=true)
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiu-xaH&custom_title=贡献图)
 
 ## [联系方式 zsh0908@outlook.com](zsh0908@outlook.com)
