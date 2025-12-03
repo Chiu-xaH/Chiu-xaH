@@ -14,8 +14,6 @@
 
 远期规划由App向Framework发展，期望从事领域：Android原生应用开发 -> Android系统应用开发 -> Android系统Framework开发。
 
-也许时代的风向一直变化，但我对Android的热爱从未动摇，保持初心，不随波逐流。
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 动态
