@@ -4,7 +4,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring,kotlin&theme=light)
 
-我是一名Android开发者，兴趣驱使我入门此行业，从2023.06高考后开始接触计算机的世界;
+我是一名Android开发者，兴趣使然，从2023高考后开始接触计算机的世界;
 
 我就读于合肥工业大学(HFUT)宣城校区本科(2023-2027)，大一修地球信息科学与技术专业，目前为计算机科学与技术专业;
 
