@@ -12,7 +12,7 @@
 
 我平时喜欢通过书本、博客or帖子、开源项目及源码来学习，完善自己的不足；日常维护[聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule), [DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater)等项目;
 
-远期规划由App向Framework发展，目前在从事Android系统应用开发；期望从事领域：Android原生应用开发 -> Android系统应用开发 -> Android系统Framework开发。
+远期规划由App向Framework发展，目前在从事Android系统应用开发。
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
