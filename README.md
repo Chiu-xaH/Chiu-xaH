@@ -10,7 +10,7 @@
 
 我平时喜欢通过书本、博客 or 帖子、开源项目及源码来学习，完善自己的不足；日常维护 [聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)、[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater) 等项目；
 
-我经常使用的语言为 Kotlin、Java、C、Python；远期规划由App向Framework发展，目前在从事Android系统应用开发。
+我经常使用的语言为 Kotlin、Java、C、Python；远期规划由 App 向 Framework 发展，目前在从事 Android 系统 App 开发。
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
