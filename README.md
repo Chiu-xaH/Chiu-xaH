@@ -8,7 +8,7 @@
 
 我就读于合肥工业大学(HFUT)宣城校区本科(2023-2027)，大一修地球信息科学与技术专业，目前为计算机科学与技术专业；
 
-我平时喜欢通过书本、博客 or 帖子、开源项目及源码来学习，完善自己的不足；日常维护 [聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)、[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater) 等项目；
+我喜欢通过书本、博客 or 帖子、开源项目及源码来学习相关领域的知识；日常维护 [聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)、[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater) 等项目；
 
 我经常使用的语言为 Kotlin、Java、C、Python；远期规划由 App 向 Framework 发展，目前在从事 Android System App 开发。
 
