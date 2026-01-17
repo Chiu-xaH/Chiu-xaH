@@ -4,7 +4,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring,kotlin&theme=light)
 
-我是一名 Android 开发者，兴趣使然，从2023高考后开始学习编程及 Android；
+我是一名 Android 开发者，兴趣使然，从 2023 高考后开始学习编程及 Android；
 
 我就读于合肥工业大学(HFUT)宣城校区本科(2023-2027)，大一修地球信息科学与技术专业，目前为计算机科学与技术专业；
 
