@@ -2,7 +2,7 @@
 
 ## 简介 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,spring,kotlin&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,jetpackcompose,kotlin&theme=light)
 
 我是一名 Android 开发者，兴趣使然，从 2023 高考后开始学习编程及 Android；
 
