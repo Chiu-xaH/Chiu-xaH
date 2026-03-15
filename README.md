@@ -17,7 +17,6 @@
 ## 动态
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiu-xaH&custom_title=贡献图)
 
-## [联系方式 zsh0908@outlook.com](zsh0908@outlook.com)
-
-
+## [联系方式](zsh0908@outlook.com)
+zsh0908@outlook.com
 
