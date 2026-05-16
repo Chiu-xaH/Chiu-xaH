@@ -10,7 +10,7 @@
 
 我喜欢通过书本、博客、帖子、开源项目及源码来学习相关领域的知识；日常维护 [聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)、[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater)、[SharedNav](https://github.com/Chiu-xaH/SharedNav) 等项目；
 
-我经常使用的语言为 Kotlin；实习从事过蔚来车机 Android SystemUI 开发，目前在快手参与主站/极速版客户端的实习。
+我经常使用的语言为 Kotlin；实习从事过蔚来车机 SystemUI 系统应用的开发，目前在快手实习从事主站&极速版客户端的开发。
 
 未来规划向 Android 系统层发展，我希望能有更多的机会深入 View 相关。
 ![](./profile-3d-contrib/profile-green-animate.svg)
