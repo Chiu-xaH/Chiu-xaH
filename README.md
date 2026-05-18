@@ -12,7 +12,7 @@
 
 我的实习经历：2025-12在蔚来系统应用与框架部从事车机系统 SystemUI 的开发，2026-05在快手主站技术部从事主站/极速版客户端的开发。
 
-未来规划向 Android 系统层发展，我希望能有更多的机会深入 View 相关。
+未来规划向 Android 系统层发展，我希望能有更多的机会深入 View 体系，SystemUI，Launcher，动效等。
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 动态
