@@ -8,7 +8,7 @@
 
 我就读于合肥工业大学(HFUT)宣城校区本科(2023-2027)，大一修地球信息科学与技术专业，目前为计算机科学与技术专业；
 
-我喜欢通过书本、博客、帖子、开源项目及源码来学习相关知识；日常维护 [聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)、[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater)、[SharedNav](https://github.com/Chiu-xaH/SharedNav) 等项目，最近在学习 AOSP，正在画图写文章：[从AOSP学习系列](https://github.com/Chiu-xaH/My-Aosp-Study)；
+我喜欢通过书本、博客、帖子、开源项目及源码来学习相关知识；日常维护 [聚在工大](https://github.com/Chiu-xaH/HFUT-Schedule)、[DiffUpdater](https://github.com/Chiu-xaH/DiffUpdater)、[SharedNav](https://github.com/Chiu-xaH/SharedNav) 等项目，最近在学习 AOSP 并画图写文：[AOSP学习系列](https://github.com/Chiu-xaH/My-Aosp-Study)；
 
 我的实习经历：2025-12 在蔚来系统应用与框架部从事车机系统 SystemUI 的开发，2026-05 在快手主站技术部从事主站/极速版客户端的开发。
 
